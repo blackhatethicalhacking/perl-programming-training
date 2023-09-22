@@ -10,6 +10,17 @@
 
 ![perl-phyton](https://github.com/blackhatethicalhacking/perl-training-opsec/assets/13942386/32fc6a69-967d-4d45-a58f-833dcb4dffa6)
 
+# Description
+
+Perl is the standard installed in most Debian and Ubuntu based systems. The feature perl is most known for, is its built-in "regexp" handling.
+
+For example:
+
+`$string =~ s/DROP\sTABLE/No SQL injection attacks here, thanks!/sgi;`
+
+To use perl on a GNU/Linux distro, its just to start using it. Its preinstalled and ready to go!
+
+But if you want to go more advanced, I would recommend updating CPAN and making it ready to use. Check "Installation".
 
 # Features
 
@@ -48,7 +59,53 @@ This repository serves as both a learning resource and a reference. You can use 
 
 # Installation
 
-If you need to install specific Perl modules mentioned in the examples, follow the installation instructions provided in the repository's documentation.
+To start CPAN, you do:
+
+`bheh@kali:~$ sudo perl -MCPAN -e shell;`
+
+You will be asked to configure it. The default is a good option for most, but if there is something you dislike, you could always change that option. Then you will appear at the CPAN prompt:
+
+`cpan[1]>`
+
+Then at this prompt, type:
+
+`cpan[1]> install CPAN`
+
+It will update to latest version.
+Then when you are back at prompt, type:
+
+```
+cpan[2]> reload CPAN
+(CPAN__unchanged__v2.18)(CPAN::Author__unchanged__v5.5002)(CPAN::CacheMgr__unchanged__v5.5002)
+(CPAN::Complete__unchanged__v5.5001)(CPAN::Debug__unchanged__v5.5001)
+(CPAN::DeferredCode__unchanged__v5.50)(CPAN::Distribution__unchanged__v2.18)
+(CPAN::Distroprefs__unchanged__v6.0001)(CPAN::Distrostatus__unchanged__v5.5)
+(CPAN::Exception::RecursiveDependency.....v5.5001)(CPAN::Exception::yaml_not_installed..v5.5)
+(CPAN::FTP__unchanged__v5.5008)(CPAN::FTP::netrc__unchanged__v1.01)
+(CPAN::HandleConfig__unchanged__v5.5008)(CPAN::Index__unchanged__v2.12)
+(CPAN::InfoObj__unchanged__v5.5)(CPAN::LWP::UserAgent....v1.9601)
+(CPAN::Module__unchanged__v5.5003)(CPAN::Prompt__unchanged__v5.5)
+(CPAN::Queue__unchanged__v5.5002)(CPAN::Shell__unchanged__v5.5006)
+(CPAN::Tarzip__unchanged__v5.5012)(CPAN::Version__unchanged__v5.5003)
+11 subroutines redefined
+
+cpan[3]>
+```
+
+At this time, you can either install one or more modules:
+
+`cpan[3]> install XXX:XXX`
+
+where `XXX:XXX` is the module name (CaSe SeNsItIvE!!!)
+
+or just exit out if you dont need to use CPAN at this time:
+
+```
+cpan[3]> exit
+Terminal does not support GetHistory.
+Lockfile removed.
+bheh@kali:~$
+```
 
 # License
 
