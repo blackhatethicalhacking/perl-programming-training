@@ -125,6 +125,9 @@ cpan[2]> reload CPAN
 
 cpan[3]>
 ```
+**Important:**
+
+Run: `cpan Convert::Base32` before you start the script after `chmod +x script.pl`
 
 At this time, you can either install one or more modules:
 
