@@ -18,7 +18,7 @@ Here is the breakdown of the included script:
 
 - **Comments:** Comments in Perl start with a '#' character. They are used to provide explanations and documentation.
 
-- **Random Letter:** The script generates a random letter from the alphabet (a to z) and prints it.
+- **Random Letter:** The script generates a random letter from the alphabet (a to z) and prints it:
 
 ```
 @alphabet = ( 'a' .. 'z' );
@@ -28,7 +28,7 @@ print $letter; # prints random letter between a - z
 
 - **Learning Basics:** The script emphasizes that when learning any programming language, you should understand data types, syntax, logic, and data structures. These are essential concepts in programming.
 
-- **Variables:** It demonstrates how to declare and use variables in Perl.
+- **Variables:** It demonstrates how to declare and use variables in Perl:
 
 `$a = 12;`
 
@@ -38,7 +38,7 @@ print $letter; # prints random letter between a - z
 
 - **String Manipulation:** Demonstrates string manipulation using regular expressions and concatenation.
 
-- **System Commands:** It uses backticks to execute system commands and capture their output.
+- **System Commands:** It uses backticks to execute system commands and capture their output:
 
 ```
 $commandresult = `whoami`;
@@ -50,13 +50,11 @@ print "I am: ".uc($commandresult);
 
 - **Cleanup:** After finishing its tasks, the script removes temporary files created during execution.
 
-**For example:**
+- **For example:**
 
 `$string =~ s/DROP\sTABLE/No SQL injection attacks here, thanks!/sgi;`
 
-To use perl on a GNU/Linux distro, its just to start using it. Its preinstalled and ready to go!
-
-But if you want to go more advanced, I would recommend updating CPAN and making it ready to use. Check "Installation".
+To use perl on a GNU/Linux distro, its just to start using it. Its preinstalled and ready to go! But if you want to go more advanced, I would recommend updating CPAN and making it ready to use. Check **Installation**.
 
 # Features
 
