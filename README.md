@@ -19,22 +19,22 @@ Dive into the extensive Perl documentation available at your fingertips.
 
 🌟 Highlighted Features
 
-**Random Letter Generator:** Get hands-on with Perl by generating and printing random letters from the alphabet.
-**Module Import:** Learn how to import external modules using the use keyword and explore practical examples, including Convert::Base32.
-**File Operations:** Master file handling in Perl, from creating and writing to files to reading their content. Avoid common pitfalls with file handling.
-**String Manipulation:** Discover Perl's powerful string manipulation capabilities, including regular expressions and string concatenation.
-**System Commands:** Execute system commands and capture their output with backticks. Get creative with system-level interactions.
-**Functions:** Understand the fundamentals of defining and using functions in Perl. Explore two example functions, No_reply and I_gonna_reply.
-Socket Programming: Delve into the world of network programming with Perl. Create a simple TCP server and connect to it from a daughter script.
-**Cleanup:** Learn how to tidy up after your scripts by removing temporary files and resources.
+- **Random Letter Generator:** Get hands-on with Perl by generating and printing random letters from the alphabet.
+- **Module Import:** Learn how to import external modules using the use keyword and explore practical examples, including Convert::Base32.
+- **File Operations:** Master file handling in Perl, from creating and writing to files to reading their content. Avoid common pitfalls with file handling.
+- **String Manipulation:** Discover Perl's powerful string manipulation capabilities, including regular expressions and string concatenation.
+- **System Commands:** Execute system commands and capture their output with backticks. Get creative with system-level interactions.
+- **Functions:** Understand the fundamentals of defining and using functions in Perl. Explore two example functions, No_reply and I_gonna_reply.
+- **Socket Programming:** Delve into the world of network programming with Perl. Create a simple TCP server and connect to it from a daughter script.
+- **Cleanup:** Learn how to tidy up after your scripts by removing temporary files and resources.
 
 📖 Usage and Learning
 
 This repository serves as both a learning resource and a reference. You can use it in the following ways:
 
-**Learning Perl:** If you're new to Perl, start with the quick start guide to grasp the basics. Then explore individual features and examples to deepen your understanding.
-**Reference Guide:** As an experienced Perl developer, use this repository as a quick reference for specific Perl functions, modules, or programming techniques.
-**Contribute:** Feel free to contribute your own Perl examples, improvements, or corrections to help the Perl community grow.
+- **Learning Perl:** If you're new to Perl, start with the quick start guide to grasp the basics. Then explore individual features and examples to deepen your understanding.
+- **Reference Guide:** As an experienced Perl developer, use this repository as a quick reference for specific Perl functions, modules, or programming techniques.
+- **Contribute:** Feel free to contribute your own Perl examples, improvements, or corrections to help the Perl community grow.
 
 **Before diving into the repository, ensure you have the following prerequisites:**
 
