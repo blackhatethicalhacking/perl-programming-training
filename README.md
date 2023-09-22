@@ -6,6 +6,11 @@
 
 <p align="center">
 
+**Perl coders be like:**
+
+![perl-phyton](https://github.com/blackhatethicalhacking/perl-training-opsec/assets/13942386/32fc6a69-967d-4d45-a58f-833dcb4dffa6)
+
+
 # Features
 
 🚀 Quick Start
