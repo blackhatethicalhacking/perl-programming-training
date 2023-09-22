@@ -4,7 +4,7 @@
 Jumpstart your Perl programming journey with a concise quick start guide. Learn the basics of Perl, including data types, syntax, logic, and data structures.
 
 📚 The Perl Bible
-Dive into the extensive Perl documentation available at your fingertips. [GitHub Pages](https://pages.github.com/) [The Perl Bible](https://perldoc.perl.org/) is your comprehensive reference guide for all things Perl. Explore and master Perl's vast ecosystem of functions and modules.
+Dive into the extensive Perl documentation available at your fingertips.[The Perl Bible](https://perldoc.perl.org/) is your comprehensive reference guide for all things Perl. Explore and master Perl's vast ecosystem of functions and modules.
 
 🌟 Highlighted Features
 **Random Letter Generator:** Get hands-on with Perl by generating and printing random letters from the alphabet.
