@@ -53,8 +53,14 @@ This repository is licensed under the MIT License. Feel free to use, modify, and
 
 Contributions to this repository are welcome! If you have Perl examples, improvements, or bug fixes to share, please submit a pull request. Be sure to follow our Contributing Guidelines for a smooth collaboration.
 
-# Feedback and Support
+# Feedback
 
 For any questions, feedback, or support related to this repository, feel free to open an issue. We value your input and aim to create a helpful and welcoming community.
+
+# Support
+
+If you would like to support us, you can always buy us coffee(s)! :blush:
+
+<a href="https://www.buymeacoffee.com/bheh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 Thank you for exploring our Perl programming repository! **Happy coding!** 🚀
