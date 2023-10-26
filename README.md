@@ -86,7 +86,7 @@ This repository serves as both a learning resource and a reference. You can use 
 - **Reference Guide:** As an experienced Perl developer, use this repository as a quick reference for specific Perl functions, modules, or programming techniques.
 - **OPSec Training:** Understanding a language from a hacker's perspective in comparison to a developper has to do not with how much Perl you know, but what offensive things can you do using Perl and how fast will they run. This script will help you interact and understand how use socket proxy on a TCP/IP level, so you can integrate within your offensive security operations and Red Teaming.
 - **Contribute:** Feel free to contribute your own Perl examples, improvements, or corrections to help the Perl community grow.
-- 
+  
 **Before diving into the repository, ensure you have the following prerequisites:**
 
 - Perl installed on your system.
