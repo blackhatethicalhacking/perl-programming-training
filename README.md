@@ -7,9 +7,6 @@
 <p align="center">
 
 
-
-![perl-phyton](https://github.com/blackhatethicalhacking/perl-training-opsec/assets/13942386/32fc6a69-967d-4d45-a58f-833dcb4dffa6)
-
 # Description
 
 Perl is the standard installed in most Debian and Ubuntu based systems. The feature perl is most known for, is its built-in "regexp" handling. This Perl script is a tutorial or example that introduces various aspects of the Perl programming language. It appears to be designed for educational purposes, helping readers learn Perl and its concepts.
