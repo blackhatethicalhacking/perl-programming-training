@@ -1,4 +1,4 @@
-# Perl Programming Playground Training
+# Perl Programming Language Playground Training
 
 <p align="center">
 <a href="https://www.blackhatethicalhacking.com"><img src="https://www.blackhatethicalhacking.com/wp-content/uploads/2022/06/BHEH_logo.png" width="300px" alt="BHEH"></a>
