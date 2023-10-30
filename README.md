@@ -9,7 +9,7 @@
 
 # Description
 
-Perl is the standard installed in most Debian and Ubuntu based systems. The feature perl is most known for, is its built-in "regexp" handling. This Perl script is a tutorial or example that introduces various aspects of the Perl programming language. It appears to be designed for educational purposes, helping readers learn Perl and its concepts.
+Perl is the standard installed in most Debian and Ubuntu based systems. The feature perl is most known for, is its built-in "regexp" handling. This Perl script is a tutorial that introduces various aspects of the Perl programming language. It's designed for educational purposes, helping readers learn Perl and its concepts.
 
 Here is the breakdown of the included script:
 
